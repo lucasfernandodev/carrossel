@@ -1,7 +1,7 @@
 # Picture carousel
 
 
-![Picture carousel](./slider.gif);
+![Picture carousel](./slider.gif)
 
 
 
